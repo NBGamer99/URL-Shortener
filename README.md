@@ -167,6 +167,8 @@ Alright, it's time to embark on the magical journey of setting up your Laravel V
 ---
 You should now have a Laravel Vue.js application set up and ready to use on both Linux and Windows systems.
 
+![](./static/imgs/result.gif)
+
 # 📚 Resources
 ---
 - Laravel Vite+Vue.js configuration : [link](https://laravel.com/docs/10.x/vite#vue)
