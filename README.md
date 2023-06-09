@@ -33,11 +33,15 @@ Certainly! Here's a README file in markdown style for your URL shortener applica
 
 ## URL Shortener App - Laravel, Vue.js, and Inertia.js
 
-<center>
+<p align="center">
+
   <img src="./static/imgs/svgexport-2.png" alt="Image" width="100" height="100" style="max-width: 300px; max-height: 300px;">
 
-  [![Laravel Forge Site Deployment Status](https://img.shields.io/endpoint?url=https%3A%2F%2Fforge.laravel.com%2Fsite-badges%2F2869a646-83bf-47b1-b8e7-406d93f413d7&style=plastic)](https://forge.laravel.com/servers/690068/sites/2006130)
-</center>
+  <center>
+
+ [![Laravel Forge Site Deployment Status](https://img.shields.io/endpoint?url=https%3A%2F%2Fforge.laravel.com%2Fsite-badges%2F5a187c45-1d98-428a-8787-fda1fd01af61&style=plastic)](https://forge.laravel.com/servers/690134/sites/2006348)
+  </center>
+</p>
 
 This repository contains the code for a URL shortener application built using Laravel, Vue.js, and Inertia.js.
 
@@ -203,4 +207,4 @@ Special thanks to the creators and maintainers of Laravel, Vue.js, and Inertia.j
 
 # Contact
 ---
-For any questions or inquiries, please contact [yasser@@example.com](mailto:your-email@example.com).
+For any questions or inquiries, please contact [yassernabouzi@ynabouzi.me](mailto:yassernabouzi@ynabouzi.me).
