@@ -10,7 +10,7 @@ use Laravel\Sanctum\HasApiTokens;
 use App\Models\ShortUrl;
 use Illuminate\Database\Eloquent\Relations\HasMany;
 
-class User extends Authenticatable  implements MustVerifyEmail
+class User extends Authenticatable
 {
     use HasApiTokens, HasFactory, Notifiable;
 
