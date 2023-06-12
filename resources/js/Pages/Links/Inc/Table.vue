@@ -208,7 +208,7 @@ function handleLinkClick(link) {
 
 function toggleState(link) {
 	link.is_enabled = !link.is_enabled; // Toggle the state
-	this.updateState(link.id, link.is_enabled); // Update the state in the database
+	updateState(link.id, link.is_enabled); // Update the state in the database
 }
 
 function truncate(value, length) {
